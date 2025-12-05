@@ -1,0 +1,8 @@
+Problem 09 — Check if Number is Positive, Negative, or Zero
+==============================================================
+English:
+Write a program that checks whether a number is positive, negative, or zero.
+==============================================================
+Arabic:
+اكتب برنامج يشوف الرقم موجب ولا سالب ولا صفر.
+==============================================================
