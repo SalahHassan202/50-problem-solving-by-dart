@@ -1,0 +1,8 @@
+Problem 06 — Sum of Numbers from 1 to N
+==============================================================
+English:
+Write a program that takes a positive number N and prints the sum of all numbers from 1 to N.
+==============================================================
+Arabic:
+اكتب برنامج ياخد رقم موجب N ويطلع مجموع الأرقام من 1 لحد N.
+==============================================================
