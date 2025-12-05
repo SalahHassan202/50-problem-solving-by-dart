@@ -1,0 +1,8 @@
+Problem 10 — Multiply All Numbers in a List
+==============================================================
+English:
+Write a program that takes a list of numbers and returns the result of multiplying all the numbers together.
+==============================================================
+Arabic:
+اكتب برنامج ياخد ليست أرقام ويرجع حاصل ضرب كل الأرقام مع بعض.
+==============================================================
