@@ -1,0 +1,8 @@
+Problem 07 — Find the Smallest Number
+==============================================================
+English:
+Write a program that takes a list of numbers and prints the smallest number in the list.
+==============================================================
+Arabic:
+اكتب برنامج ياخد ليست أرقام ويطبع أصغر رقم فيها.
+==============================================================
