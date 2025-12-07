@@ -1,0 +1,8 @@
+Problem 16 — Count Occurrences of a Character
+==============================================================
+English:
+Write a program that counts how many times a specific character appears in a string.
+==============================================================
+Arabic:
+اكتب برنامج يعدّ كام مرة حرف معين ظهر في سترينج.
+==============================================================
