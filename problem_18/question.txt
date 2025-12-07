@@ -1,0 +1,8 @@
+Problem 18 — Find the First Letter of Each Word
+==============================================================
+English:
+Write a program that takes a sentence and prints the first letter of each word.
+==============================================================
+Arabic:
+اكتب برنامج ياخد جملة ويطبع أول حرف من كل كلمة فيها.
+==============================================================
