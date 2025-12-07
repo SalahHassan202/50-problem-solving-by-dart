@@ -1,0 +1,8 @@
+Problem 11 — Check if String is Palindrome
+==============================================================
+English:
+Write a program that checks if a given string is a palindrome (reads the same forward and backward).
+==============================================================
+Arabic:
+اكتب برنامج يشوف السترينج لو اتقرا من قدّام وورا يطلع نفس الشكل ولا لأ.
+==============================================================
