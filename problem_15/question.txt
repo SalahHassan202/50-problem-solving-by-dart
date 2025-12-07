@@ -1,0 +1,8 @@
+Problem 15 — Print Multiplication Table of a Number
+==============================================================
+English:
+Write a program that prints the multiplication table of a given number from 1 to 10.
+==============================================================
+Arabic:
+اكتب برنامج يطبع جدول الضرب لرقم معين من 1 لحد 10.
+==============================================================
