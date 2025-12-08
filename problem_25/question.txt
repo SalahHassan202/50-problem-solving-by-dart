@@ -1,0 +1,8 @@
+Problem 25 — Count How Many Numbers Are Greater Than 10
+==============================================================
+English:
+Write a program that counts how many numbers in a list are greater than 10.
+==============================================================
+Arabic:
+اكتب برنامج يعدّ كام رقم في ليست أكبر من 10.
+==============================================================
