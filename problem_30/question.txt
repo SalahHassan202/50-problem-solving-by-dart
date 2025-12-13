@@ -1,0 +1,8 @@
+Problem 30 — Find Missing Number from 1 to N
+==============================================================
+English:
+Write a program that finds the missing number in a list containing numbers from 1 to N with one number missing.
+==============================================================
+Arabic:
+اكتب برنامج يطلع الرقم الناقص من ليست المفروض فيها الأرقام من 1 لحد N.
+==============================================================
