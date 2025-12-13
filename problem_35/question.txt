@@ -1,0 +1,8 @@
+Problem 35 — Greatest Common Divisor (GCD)
+==============================================================
+English:
+Write a program that takes two numbers and prints their greatest common divisor (GCD).
+==============================================================
+Arabic:
+اكتب برنامج ياخد رقمين ويطلع أكبر قاسم مشترك بينهم.
+==============================================================
