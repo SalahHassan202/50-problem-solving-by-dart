@@ -1,0 +1,8 @@
+Problem 31 — Fibonacci Sequence
+==============================================================
+English:
+Write a program that takes a number N and prints the first N numbers of the Fibonacci sequence.
+==============================================================
+Arabic:
+اكتب برنامج ياخد رقم N ويطبع أول N رقم من متتالية فيبوناتشي.
+==============================================================
