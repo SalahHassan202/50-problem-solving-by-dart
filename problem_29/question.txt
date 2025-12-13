@@ -1,0 +1,8 @@
+Problem 29 — Check if Two Strings Are Anagrams
+==============================================================
+English:
+Write a program that checks if two strings are anagrams (contain the same characters with the same count).
+==============================================================
+Arabic:
+اكتب برنامج يشوف سترينجين فيهم نفس الحروف وبنفس العدد ولا لأ.
+==============================================================
