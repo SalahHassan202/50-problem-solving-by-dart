@@ -1,0 +1,8 @@
+Problem 39 — Check if Number is Binary
+==============================================================
+English:
+Write a program that checks whether a given number is a binary number or not.
+==============================================================
+Arabic:
+اكتب برنامج يشوف الرقم ده Binary (مكوّن من 0 و 1 بس) ولا لأ.
+==============================================================
