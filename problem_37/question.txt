@@ -1,0 +1,8 @@
+Problem 37 — Count Even and Odd Digits in a Number
+==============================================================
+English:
+Write a program that counts how many even digits and odd digits are in a number.
+==============================================================
+Arabic:
+اكتب برنامج يعدّ كام رقم زوجي وكام رقم فردي جوه رقم معين.
+==============================================================
