@@ -1,0 +1,10 @@
+Problem 46 — Polymorphism
+==============================================================
+English:
+Create two classes Cat and Dog that extend Animal.
+Call the same method using different objects
+==============================================================
+Arabic:
+اعمل كلاس Cat وكلاس Dog وارثين من Animal،
+واستخدم نفس الميثود بس كل واحد يطلع نتيجة مختلفة.
+==============================================================
