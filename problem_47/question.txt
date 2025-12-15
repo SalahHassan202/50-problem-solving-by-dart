@@ -1,0 +1,10 @@
+Problem 47 — Abstract Class
+==============================================================
+English:
+Create an abstract class Shape with a method area.
+Create a class Square that implements it
+==============================================================
+Arabic:
+اعمل كلاس abstract اسمه Shape فيه ميثود area،
+وبعدين اعمل كلاس Square ينفّذها.
+==============================================================
