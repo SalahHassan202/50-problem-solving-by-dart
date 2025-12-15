@@ -1,0 +1,9 @@
+Problem 50 — Complete OOP Example
+==============================================================
+English:
+Create a simple OOP example that uses class, constructor, inheritance, and method overriding
+==============================================================
+Arabic:
+اعمل مثال بسيط يلمّ OOP كله:
+كلاس + constructor + inheritance + override.
+==============================================================
