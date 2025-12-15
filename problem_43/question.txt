@@ -1,0 +1,10 @@
+Problem 43 — Encapsulation (Private Variable)
+==============================================================
+English:
+Create a class BankAccount with a private balance.
+Add methods to deposit money and get the current balance
+==============================================================
+Arabic:
+اعمل كلاس اسمه BankAccount فيه رصيد بس يكون مخفي (private)،
+وعمل ميثود تزود فلوس وميثود ترجع الرصيد الحالي.
+==============================================================
