@@ -1,0 +1,10 @@
+Problem 44 — Constructor Logic
+==============================================================
+English:
+Create a class Rectangle with width and height.
+Use a constructor and add a method to calculate the area
+==============================================================
+Arabic:
+اعمل كلاس اسمه Rectangle فيه الطول والعرض،
+واستخدم constructor وبعدين ميثود تحسب المساحة.
+==============================================================
