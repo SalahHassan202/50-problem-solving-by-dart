@@ -1,0 +1,10 @@
+Problem 45 — Inheritance
+==============================================================
+English:
+Create a base class Animal with a method sound.
+Create a child class Dog that overrides the method
+==============================================================
+Arabic:
+اعمل كلاس أساسي اسمه Animal فيه ميثود sound،
+وبعدين اعمل كلاس Dog يورث منه ويغيّر صوت الحيوان.
+==============================================================
