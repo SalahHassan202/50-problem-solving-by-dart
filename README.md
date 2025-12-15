@@ -1,115 +1,53 @@
-
----
-
-```markdown
 # 50 Problem Solving by Dart
 
-A collection of **50 carefully selected Dart problem-solving challenges** with clean, simple, and beginner-friendly solutions.
-
-This repository is designed for **students, beginners, and Flutter developers** who want to:
-- Strengthen problem-solving skills
-- Master Dart fundamentals
-- Understand Object-Oriented Programming (OOP) in Dart
-- Prepare for technical interviews
+A collection of 50 carefully selected problem-solving challenges using Dart.
+Designed for beginners and Flutter developers to strengthen logic,
+understand Dart fundamentals, and prepare for technical interviews.
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
-```
-
-50-problem-solving-by-dart/
-│
-├── basics/
-│   ├── problem_01/
-│   │   ├── question.md
-│   │   └── solution.dart
-│   ├── problem_02/
-│   ├── ...
-│   └── problem_40/
-│
-├── oop/
-│   ├── problem_41/
-│   │   ├── question.md
-│   │   └── solution.dart
-│   ├── problem_42/
-│   ├── ...
-│   └── problem_50/
-│
-└── README.md
-
-```
+- Problems 01 → 40: Dart fundamentals and problem solving
+- Problems 41 → 50: Object-Oriented Programming (OOP)
 
 ---
 
-## 🧩 Problems Breakdown
+## Problem Format
 
-### 🔹 Problems 01 → 40 | Dart Fundamentals
-These problems focus on **core Dart and problem-solving concepts**, including:
-- Variables & Data Types  
-- Conditions (if / else / switch)  
-- Loops (for / while)  
-- Strings  
-- Lists  
-- Maps  
-- Input / Output  
-- Mathematical logic  
-- Basic algorithms  
-
-Each problem includes:
-- ✅ English prompt  
-- ✅ Arabic explanation (Egyptian style)  
-- ✅ Complete Dart solution  
+Each problem contains:
+- question.md (English + Arabic)
+- solution.dart (clean and simple Dart code)
 
 ---
 
-### 🔹 Problems 41 → 50 | Object-Oriented Programming (OOP)
-These problems focus on **OOP concepts in Dart**, such as:
-- Classes & Objects  
-- Constructors  
-- Encapsulation  
-- Inheritance  
-- Polymorphism  
-- Abstraction  
-- Method overriding  
-- Static members  
+## Topics Covered
 
-This section helps you understand **real Dart & Flutter architecture**.
+### Dart Fundamentals (01 → 40)
+- Variables & data types
+- Conditions & loops
+- Strings
+- Lists & maps
+- Input / Output
+- Mathematical logic
+- Core problem-solving skills
 
----
-
-## 🎯 Goals of This Repository
-- Build strong logic and problem-solving skills  
-- Make Dart easy and clear for beginners  
-- Help Flutter learners write clean and readable code  
-- Provide interview-ready examples  
-- Create a reference repo for Dart fundamentals & OOP  
+### Object-Oriented Programming (41 → 50)
+- Classes & objects
+- Constructors
+- Encapsulation
+- Inheritance
+- Polymorphism
+- Abstraction
+- Method overriding
 
 ---
 
-## 🚀 Status
-- ✅ Problems 01 → 40: Dart Fundamentals  
-- ⏳ Problems 41 → 50: OOP (in progress)
+## Status
+- Dart Fundamentals: Completed
+- OOP Problems: In progress
 
 ---
 
-## 🤝 Contributions
-Contributions are welcome!
-
-You can:
-- Open an issue for suggestions  
-- Submit a pull request with improvements  
-- Add new ideas or optimize existing solutions  
-
----
-
-## ⭐ Support
-If you find this repository helpful, please give it a **star ⭐**  
-It really helps and motivates me to keep improving it 💙
-
----
-
-Created with ❤️ by **Salah Hassan**
-```
-
----
+## Support
+If this repository helps you, please give it a star ⭐
