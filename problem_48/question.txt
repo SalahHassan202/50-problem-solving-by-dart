@@ -1,0 +1,8 @@
+Problem 48 — Interface using Implements
+==============================================================
+English:
+Create an interface Printer and implement it in a class.
+==============================================================
+Arabic:
+اعمل Interface اسمه Printer وبعدين كلاس يطبّقه.
+==============================================================
