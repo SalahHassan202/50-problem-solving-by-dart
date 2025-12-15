@@ -1,0 +1,11 @@
+Problem 41 — Create Class and Object
+==============================================================
+English:
+
+Create a class called Car that has two properties: brand and year.
+Create an object from the class and print its data.
+==============================================================
+Arabic:
+اعمل كلاس اسمه Car فيه خاصيتين: اسم العربية وسنة الصنع،
+وبعدين اعمل object من الكلاس واطبع البيانات.
+==============================================================
