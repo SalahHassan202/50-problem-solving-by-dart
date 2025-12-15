@@ -1,0 +1,10 @@
+Problem 42 — Class with Method
+==============================================================
+English:
+Create a class called Student with name and grade.
+Add a method that prints whether the student passed or failed
+==============================================================
+Arabic:
+اعمل كلاس اسمه Student فيه الاسم والدرجة،
+وعمل ميثود تقول الطالب ناجح ولا ساقط.
+==============================================================
